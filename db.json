@@ -1,0 +1,40 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Sản phẩm 1",
+      "resource": "Kim Đồng",
+      "description": "Sách tốt, giá rẻ",
+      "original_price": "2000",
+      "rating": "4",
+      "image": "https://picsum.photos/50/50"
+    },
+    {
+      "id": 2,
+      "name": "VQ My love",
+      "resource": "Hoa Hồng",
+      "description": "Chất lượng",
+      "original_price": "1000",
+      "rating": "2",
+      "image": "https://picsum.photos/50/50"
+    },
+    {
+      "name": "Hoang trung",
+      "resource": "My house",
+      "description": "Hight",
+      "original_price": "3000",
+      "rating": "2",
+      "id": 4,
+      "image": "https://picsum.photos/50/50"
+    },
+    {
+      "name": "Sách hay nhất tháng 3",
+      "resource": "Nhà xuất bản tuổi trẻ",
+      "description": "lorem",
+      "original_price": "1000",
+      "rating": "3",
+      "id": 5,
+      "image": "https://picsum.photos/50/50"
+    }
+  ]
+}
